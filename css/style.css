@@ -348,7 +348,7 @@ h6,
 .service-item:hover {
     margin-top: -15px;
     padding-bottom: 60px;
-    background: var(--primary);
+    background: #0c1024;
 }
 
 .service-item .service-icon {
@@ -359,7 +359,7 @@ h6,
     align-items: center;
     justify-content: center;
     color: var(--light);
-    background: url(../img/blob-primary.png) center center no-repeat;
+    background: url(../img/blob-secondary.png) center center no-repeat;
     background-size: contain;
     transition: .5s;
 }
