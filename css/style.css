@@ -435,13 +435,13 @@ h6,
     height: 100%;
     top: 0;
     left: 0;
-    background: rgba(98, 34, 204, .9);
+    background: var(--secondary);
     transition: .5s;
     opacity: 0;
 }
 
 .portfolio-item:hover .portfolio-overlay {
-    opacity: 1;
+    opacity: 90%;
 }
 
 
